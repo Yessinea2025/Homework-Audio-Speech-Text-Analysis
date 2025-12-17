@@ -1,0 +1,33 @@
+{
+  "video_path": "vlog.mp4",
+  "text_file": "transcript.txt",
+  "emotion_labels": [
+    "happy",
+    "angry",
+    "sad",
+    "neutral"
+  ],
+  "visual_emotion_stats": {
+    "sad": 35,
+    "neutral": 7,
+    "happy": 7,
+    "angry": 1
+  },
+  "audio_emotion_stats": {
+    "angry": 41,
+    "happy": 6,
+    "neutral": 3
+  },
+  "correlations": {
+    "happy": 0.08241915663244197,
+    "angry": 0.06670919908647746,
+    "sad": 0,
+    "neutral": 0.10453830551990997
+  },
+  "text_emotion": {
+    "happy": 0.47619047619047616,
+    "angry": 0.0,
+    "sad": 0.5238095238095238,
+    "neutral": 0.0
+  }
+}
